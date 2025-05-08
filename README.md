@@ -28,4 +28,16 @@ Every time you **refresh the page**, two dice are rolled — one for **Player 1*
 ---
 
 ## 📁 File Structure
-
+dicee-game/
+│
+├── images/
+│ ├── dice1.png
+│ ├── dice2.png
+│ ├── dice3.png
+│ ├── dice4.png
+│ ├── dice5.png
+│ └── dice6.png
+│
+├── index.html
+├── styles.css
+└── script.js
